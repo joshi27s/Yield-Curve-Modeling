@@ -1,7 +1,7 @@
 # Yield-Curve-Modeling
 
 
-In this research, I am forecasting the yield curve using the dynamic Nelson Siegel model proposed by Dielbold and Li (2006). The file contains MATLAB codes, results and explanations.
+In this research, I am forecasting the yield curve using the dynamic Nelson Siegel model proposed by Dielbold and Li (2006). The files contains MATLAB codes, results and explanations.
 This is work in progress.
 
 Synopsis of the Analysis
